@@ -1,0 +1,14 @@
+.tryagain-container {
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    margin: 0px;
+}
+
+.answers-container button {
+    margin: 5px;
+}
